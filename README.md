@@ -1,5 +1,5 @@
 ## Hello there 👋
-I'm Julio! I am a Web Developer. I love learning new technology and skills of web [ Frontend/Backend ] ,  sometimes I writting articles about technology I leanrned on [dev.to](https://dev.to/julio_santacruz) and [my Portfolio](juliosantacruz.dev). I want to travel and work, I'm ready for the adventure. 
+I'm Julio! I am a Web Developer. I love learning new technology and skills of web [ Frontend/Backend ] ,  sometimes I write articles about technology I leanrned on [dev.to](https://dev.to/julio_santacruz) and [my Portfolio](juliosantacruz.dev). I want to travel and work, I'm ready for the adventure. 
 
 
 ## My values 🤠🤖
