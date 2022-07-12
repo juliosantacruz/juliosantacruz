@@ -12,9 +12,9 @@ I'm Julio! I am a Web Developer. I love learning new technology and skills of we
 
 ## Connect with me 📧📱🙃
 
- - [twiter](https://twitter.com/JulioSantacruzh)
  - [LinkedIn](https://www.linkedin.com/in/julio-santacruz/)
- - [Instagram](https://www.linkedin.com/in/julio-santacruz/)
+ - [Twitter](https://twitter.com/JulioSantacruzh)
+- [Instagram](https://www.linkedin.com/in/julio-santacruz/)
 
 
 <!--
