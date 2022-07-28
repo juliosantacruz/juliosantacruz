@@ -8,13 +8,20 @@ I'm Julio! I am a Web Developer. I love learning new technology and skills of we
  - [x] Never stop learning 
  - [x] Teach what you know to anyone who asks
 
+## Most Used Languages
 
+- HTML
+- CSS
+- Python (+ Django)
+- Javascript (+ React)
+- MYSQL
 
 ## Connect with me 📧📱🙃
 
- - [LinkedIn](https://www.linkedin.com/in/julio-santacruz/)
- - [Twitter](https://twitter.com/JulioSantacruzh)
+- [LinkedIn](https://www.linkedin.com/in/julio-santacruz/)
+- [Twitter](https://twitter.com/JulioSantacruzh)
 - [Instagram](https://www.linkedin.com/in/julio-santacruz/)
+- [Instagram](https://www.juliosantacruz.dev/)
 
 
 <!--
